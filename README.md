@@ -5,8 +5,6 @@ Nice to meet you!
 
 🔭 I’m currently study at HSE
 🌱 I’m currently learning ML, C++, mathematics
-🤔 I’m looking for help with C++, math
 💬 Ask me about DS, school math
 📫 How to reach me: HSE, MSC
-😄 Pronouns: He
 Nice to meet you!
